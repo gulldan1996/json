@@ -1,100 +1,98 @@
-{
-  "product": [
-    {
-      "categories": "Бальзам",
-      "name": "Бальзам для волос восстанавливающий",
-      "capacity": "1000",
-      "title": "(Intense Repair Conditioner)",
-      "cost": "200",
-      "sale": ""
-    },
-    {
-      "categories": "Крем",
-      "name": "Крем для сухих волос",
-      "capacity": "1000",
-      "title": "",
-      "cost": "60",
-      "sale": "100"
-    },
-    {
-      "categories": "Спрей",
-      "name": "Спрей для волос восстанавливающий",
-      "capacity": "400",
-      "title": "(Intense)",
-      "cost": "99",
-      "sale": ""
-    },
-    {
-      "categories": "Мусс",
-      "name": "Мусс для волос с мятой",
-      "capacity": "500",
-      "title": "(Repair)",
-      "cost": "250",
-      "sale": ""
-    },
-    {
-      "categories": "Крем",
-      "name": "Крем для сухих волос",
-      "capacity": "1000",
-      "title": "",
-      "cost": "140",
-      "sale": ""
-    },
-    {
-      "categories": "Сыворотка",
-      "name": "Сыворотка для волос с мятой",
-      "capacity": "500",
-      "title": "(Repair)",
-      "cost": "70",
-      "sale": "100"
-    },
-    {
-      "categories": "Крем-маска",
-      "name": "Крем-маска для волос восстанавливающий",
-      "capacity": "400",
-      "title": "(Intense)",
-      "cost": "30",
-      "sale": ""
-    },
-    {
-      "categories": "Бальзам",
-      "name": "Бальзам для волос восстанавливающий",
-      "capacity": "",
-      "title": "(Intense Repair Conditioner)",
-      "cost": "19",
-      "sale": ""
-    },
-    {
-      "categories": "Тоник",
-      "name": "Тоник для волос с мятой",
-      "capacity": "500",
-      "title": "(Repair)",
-      "cost": "40",
-      "sale": ""
-    },
-    {
-      "categories": "Спрей",
-      "name": "Спрей для волос восстанавливающий",
-      "capacity": "400",
-      "title": "(Intense)",
-      "cost": "99",
-      "sale": "100"
-    },
-    {
-      "categories": "Бальзам",
-      "name": "Бальзам для волос восстанавливающий",
-      "capacity": "1000",
-      "title": "(Intense Repair Conditioner)",
-      "cost": "500",
-      "sale": ""
-    },
-    {
-      "categories": "Крем",
-      "name": "Крем для сухих волос",
-      "capacity": "1000",
-      "title": "(Intense Repair Conditioner)",
-      "cost": "99",
-      "sale": ""
-    }
-  ]
-}
+[
+  {
+    "categories": "Бальзам",
+    "name": "Бальзам для волос восстанавливающий",
+    "capacity": "1000",
+    "title": "(Intense Repair Conditioner)",
+    "cost": "200",
+    "sale": ""
+  },
+  {
+    "categories": "Крем",
+    "name": "Крем для сухих волос",
+    "capacity": "1000",
+    "title": "",
+    "cost": "60",
+    "sale": "100"
+  },
+  {
+    "categories": "Спрей",
+    "name": "Спрей для волос восстанавливающий",
+    "capacity": "400",
+    "title": "(Intense)",
+    "cost": "99",
+    "sale": ""
+  },
+  {
+    "categories": "Мусс",
+    "name": "Мусс для волос с мятой",
+    "capacity": "500",
+    "title": "(Repair)",
+    "cost": "250",
+    "sale": ""
+  },
+  {
+    "categories": "Крем",
+    "name": "Крем для сухих волос",
+    "capacity": "1000",
+    "title": "",
+    "cost": "140",
+    "sale": ""
+  },
+  {
+    "categories": "Сыворотка",
+    "name": "Сыворотка для волос с мятой",
+    "capacity": "500",
+    "title": "(Repair)",
+    "cost": "70",
+    "sale": "100"
+  },
+  {
+    "categories": "Крем-маска",
+    "name": "Крем-маска для волос восстанавливающий",
+    "capacity": "400",
+    "title": "(Intense)",
+    "cost": "30",
+    "sale": ""
+  },
+  {
+    "categories": "Бальзам",
+    "name": "Бальзам для волос восстанавливающий",
+    "capacity": "",
+    "title": "(Intense Repair Conditioner)",
+    "cost": "19",
+    "sale": ""
+  },
+  {
+    "categories": "Тоник",
+    "name": "Тоник для волос с мятой",
+    "capacity": "500",
+    "title": "(Repair)",
+    "cost": "40",
+    "sale": ""
+  },
+  {
+    "categories": "Спрей",
+    "name": "Спрей для волос восстанавливающий",
+    "capacity": "400",
+    "title": "(Intense)",
+    "cost": "99",
+    "sale": "100"
+  },
+  {
+    "categories": "Бальзам",
+    "name": "Бальзам для волос восстанавливающий",
+    "capacity": "1000",
+    "title": "(Intense Repair Conditioner)",
+    "cost": "500",
+    "sale": ""
+  },
+  {
+    "categories": "Крем",
+    "name": "Крем для сухих волос",
+    "capacity": "1000",
+    "title": "(Intense Repair Conditioner)",
+    "cost": "99",
+    "sale": ""
+  }
+]
